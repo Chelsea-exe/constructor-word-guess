@@ -1,0 +1,22 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Word guessing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chelsea-exe/constructor-word-guess.git"
+  },
+  "author": "Chelsea Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chelsea-exe/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/Chelsea-exe/constructor-word-guess#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
